@@ -11,5 +11,6 @@ import UIKit
 
 class tumblrCell: UITableViewCell {
     
-    @IBOutlet weak var tumblrImage: UIView!
+    @IBOutlet weak var photoImageView:  UIImageView!
+    
 }
